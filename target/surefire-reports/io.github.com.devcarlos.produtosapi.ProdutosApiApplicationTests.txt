@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: io.github.com.devcarlos.produtosapi.ProdutosApiApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.697 s -- in io.github.com.devcarlos.produtosapi.ProdutosApiApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.873 s -- in io.github.com.devcarlos.produtosapi.ProdutosApiApplicationTests
